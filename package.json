@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "proxy-inject",
+  "version": "0.0.0",
+  "description": "Inject stuff into HTTP responses via proxy",
+  "keywords": [
+    "proxy",
+    "inject",
+    "http"
+  ],
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/node-proxy-inject.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ms": "~0.6.1",
+    "chalk": "~0.2.1",
+    "cheerio": "~0.12.2"
+  },
+  "main": "index",
+  "bugs": {
+    "url": "https://github.com/stephenmathieson/node-proxy-inject/issues"
+  },
+  "license": "MIT"
+}
